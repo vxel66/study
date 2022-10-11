@@ -33,6 +33,7 @@ public class OkJavaGoInHomeInput {
         moodLamp.setBright(Double.parseDouble(bright));
         moodLamp.on();
 
+
     }
 
 }
