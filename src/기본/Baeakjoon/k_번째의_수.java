@@ -12,6 +12,7 @@ public class k_번째의_수 {
                     if(sample[x]==0){
                         sample[x] = array[j];
                         break;
+
                     }
                 }
             }
