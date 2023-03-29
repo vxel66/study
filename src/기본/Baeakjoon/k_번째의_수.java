@@ -25,7 +25,6 @@ public class k_번째의_수 {
                     }
 
 
-
                 }
             }
             for(int b=0; b<answer.length; b++){
