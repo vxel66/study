@@ -5,6 +5,7 @@ public class k_번째의_수 {
 
         int[] answer = new int[commands.length];
 
+
         for(int i =0; i<commands.length; i++){
             int[] sample = new int[commands[i][1]-commands[i][0]+1];
             for(int j = commands[i][0]-1; j<commands[i][1]; j++){
