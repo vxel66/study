@@ -14,7 +14,6 @@ public class k_번째의_수 {
                         sample[x] = array[j];
                         break;
 
-
                     }
                 }
             }
