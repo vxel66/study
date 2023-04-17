@@ -12,6 +12,7 @@ public class 별4 {
             }
             System.out.println("");
 
+
         }
     }
 
